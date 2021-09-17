@@ -10,18 +10,19 @@ You can download the data and scripts for the workshop HERE
 
 The slides can be found HERE
 
-## Outline 
+# Outline 
 
-### Module 1 
+## Module 1 
 
-I.Introduction to UNIX 
-    a. The operating system
-    b. System structure
-    c. Files and processes
-II.File management 
-    a. Creating/deleting files and directories
+I.Introduction to UNIX   
+    a. The operating system   
+    b. System structure 
+    c. Files and processes  
+II.File management   
+    a. Creating/deleting files and directories  
     b. Changing permissions 
+    c. Navigating directories
 III.Shell commands
-    a. Execution of built-in basic commands
-    b. Viewing Command history
-    c. Creating aliases
+    a. Execution of basic built-in commands   
+    b. Viewing Command history  
+    c. Creating aliases  
