@@ -14,15 +14,15 @@ The slides can be found HERE
 
 ## Module 1 
 
-I.Introduction to UNIX   
-    a. The operating system   
-    b. System structure 
-    c. Files and processes  
-II.File management   
-    a. Creating/deleting files and directories  
-    b. Changing permissions 
-    c. Navigating directories
-III.Shell commands
-    a. Execution of basic built-in commands   
-    b. Viewing Command history  
-    c. Creating aliases  
+    I. Introduction to UNIX   
+        a. The operating system   
+        b. System structure 
+        c. Files and processes  
+    II.File management   
+        a. Creating/deleting files and directories  
+        b. Changing permissions 
+        c. Navigating directories
+    III.Shell commands
+        a. Execution of basic built-in commands   
+        b. Viewing Command history  
+        c. Creating aliases  
