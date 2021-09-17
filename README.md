@@ -43,3 +43,14 @@ The slides can be found HERE
     * Differences between servers, clusters, and supercomputers
     * How to connect to a Compute Canada cluster
     * How to submit and monitor jobs
+
+# Useful links
+
+For scripting:
+ * [Bash cheat sheet](https://devhints.io/bash)
+
+
+For HPC:
+ * [Compute Canada wiki](https://docs.computecanada.ca/wiki/Compute_Canada_Documentation)
+ * [Slurm cheat sheet](https://www.chpc.utah.edu/presentations/SlurmCheatsheet.pdf)
+ * 
