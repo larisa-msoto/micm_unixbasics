@@ -9,3 +9,17 @@ This workshop is aimed at people with little or no programming experience who wa
 You can download the data and scripts for the workshop HERE
 
 The slides can be found HERE
+
+# Contents
+
+  * Introduction to UNIX 
+    * The operating system
+    * System structure
+    * Files and processes
+  * File management 
+    * Creating/deleting files and directories
+    * Changing permissions 
+  * Shell commands
+    * Execution of built-in basic commands
+    * Viewing Command history
+    * Creating aliases
