@@ -40,7 +40,6 @@ The slides can be found HERE
     * Applications
     * Compute Canada resources
     * Private resources
-    * Differences between servers, clusters, and supercomputers
     * How to connect to a Compute Canada cluster
     * How to submit and monitor jobs
 
