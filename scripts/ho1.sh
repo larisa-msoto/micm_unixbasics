@@ -33,4 +33,4 @@ chmod go-rwx f1.txt
 
 #9) Write the contents of f1.txt and f2.txt to a new file f3.txt 
 
-cat f1.txt f2.txt > f3.txt
+head -10 f1.txt | cat f2.txt > f3.txt
