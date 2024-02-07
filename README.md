@@ -8,7 +8,6 @@ This workshop is aimed at people with little or no programming experience who wa
 
 You can download the data and scripts for the workshop by cloning this repo
 
-The slides can be found [here](https://mcgill-my.sharepoint.com/:b:/g/personal/larisa_moralessoto_mail_mcgill_ca/ETYDlVB5SDNDpemxEl-GSdoB714TioG6enmlv3rRq6Bxxw?e=09vI2P)
 
 # Contents
 
