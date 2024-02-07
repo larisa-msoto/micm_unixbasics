@@ -8,7 +8,6 @@ This workshop is aimed at people with little or no programming experience who wa
 
 You can download the data and scripts for the workshop by cloning this repo
 
-
 # Contents
 
   * Introduction to UNIX 
